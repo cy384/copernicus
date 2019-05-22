@@ -1,5 +1,7 @@
 Copernicus
 ==========
+![Copernicus](https://i.imgur.com/UHR9TMi.png)
+
 A digital homage to the Raketa Kopernik mechanical watch, inspired by the orbits of the sun and the moon, with a few configurable features:
 
 * Dark and light variants
@@ -7,6 +9,8 @@ A digital homage to the Raketa Kopernik mechanical watch, inspired by the orbits
 * Enable/disable arbor
 
 * Enable/disable seconds hand
+
+The design is high-contrast and intended to be easily readable with or without the backlight active.
 
 It may be found [on the Garmin store](https://apps.garmin.com/en-US/apps/7f9c1277-ffb8-44f6-ab86-963ad88c85a6).
 
