@@ -1,0 +1,8 @@
+<strings>
+	<string id="AppName">Copernicus</string>
+
+
+       <string id="display_dark_title">Dark mode?</string>
+       <string id="display_seconds_title">Display second hand?</string>
+       <string id="display_arbor_title">Display arbor?</string>
+</strings>

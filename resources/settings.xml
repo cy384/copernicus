@@ -1,0 +1,11 @@
+<settings>
+<setting propertyKey="@Properties.display_dark" title="@Strings.display_dark_title">
+<settingConfig type="boolean" />
+</setting>
+<setting propertyKey="@Properties.display_seconds" title="@Strings.display_seconds_title">
+<settingConfig type="boolean" />
+</setting>
+<setting propertyKey="@Properties.display_arbor" title="@Strings.display_arbor_title">
+<settingConfig type="boolean" />
+</setting>
+</settings>
